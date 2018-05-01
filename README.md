@@ -8,8 +8,4 @@ Breakouts for ESP8266 and ESP32 WiFi/WLAN + Bluetooth modules from Espressif.
 * [Espressif ESP32 ESP-WROOM-32](http://espressif.com/en/products/hardware/esp32/overview) WiFi+Bluetooth module
 * Silabs CP2102N USB UART Bridge (up to 3M baud)
 * microUSB-Connector
-
-
-## Shop
-* [ESP-WROOM-02-Breakout (ESP8266)](http://www.watterott.com/en/ESP-WROOM02-Breakout)
-* [ESP-WROOM-32-Breakout (ESP32)](http://www.watterott.com/en/ESP-WROOM32-Breakout)
+* **[Documentation on learn.watterott.com](http://learn.watterott.com/esp-wroom-breakout/)**
